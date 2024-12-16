@@ -1,0 +1,11 @@
+./crowdcount-mcnn/data
+./crowdcount-mcnn/estimate_output
+*.pyc
+output
+./data
+./crowdcount-mcnn/final_models
+./crowdcount-mcnn/final_models -Copy
+./crowdcount-mcnn/saved_models
+*_epochs.py
+*~
+./venv
